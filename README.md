@@ -14,7 +14,7 @@ Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently ob
 <samp>
   <br>
   <ul>
-    <li>My <a href="https://github.com/TNC-Capstone">Harvard Capstone project.</a></li>
+    <li>My <a href="https://github.com/amelialwx/TNC-Capstone">Harvard Capstone project</a>.</li>
     <li>Wrapping up my Fall 2023 semester 🎉</li>
     <li><a href="https://adventofcode.com/">Advent of Code 2023</a></li>
     <li>Self care</li>
