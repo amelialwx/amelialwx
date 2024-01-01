@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=amelialwx&color=f0aace&style=for-the-badge) 
 
-<img src="assets/img/christmas1.png" align="right" style="width: 150px; vertical-align: top;">
+<img src="assets/img/me1.png" align="right" style="width: 150px; vertical-align: top;">
 
 <p><samp>
 Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently obtaining my Master's in Data Science from Harvard University. During my free time, I love to game, sketch, and watch anime. If I'm feeling productive, I would browse through medium under the <a href="https://medium.com/tag/llm">LLM tag</a> because you can't ignore the next AI wave. Feel free to reach out or connect with me through any of my socials below. I wish you a warm and joyful holiday season ☕ and thank you for stopping by! ♡
@@ -10,12 +10,12 @@ Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently ob
 
 <h3><samp>Currently working on...</samp></h3>
 
-<img src="assets/img/christmas2.png" align="left" style="width: 150px;">
+<img src="assets/img/me2.png" align="left" style="width: 150px;">
 <samp>
   <br>
   <ul>
-    <li>My <a href="https://github.com/amelialwx/TNC-Capstone">Harvard Capstone project</a></li>
-    <li>Wrapping up my Fall 2023 semester 🎉</li>
+    <li>Learning pygame-ce (check out my <a href="https://github.com/amelialwx/Pixel_Purr-suit">pixel runner game</a>!)</li>
+    <li>Planning my graduation trip 🎓</li>
     <li>Japanese (Hiragana)</li>
     <li>Self care</li>
   </ul>
