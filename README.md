@@ -5,7 +5,7 @@
 <img src="assets/img/me1.png" align="right" style="width: 150px; vertical-align: top;">
 
 <p><samp>
-Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently obtaining my Master's in Data Science from Harvard University. During my free time, I love to game, sketch, and watch anime. If I'm feeling productive, I would browse through medium under the <a href="https://medium.com/tag/llm">LLM tag</a> because you can't ignore the next AI wave. Feel free to reach out or connect with me through any of my socials below. I wish you a warm and joyful holiday season ☕ and thank you for stopping by! ♡
+Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently obtaining my Master's in Data Science from Harvard University. During my free time, I love to game, sketch, and watch anime. If I'm feeling productive, I would browse through medium under the <a href="https://medium.com/tag/llm">LLM tag</a> because you can't ignore the next AI wave. Feel free to reach out or connect with me through any of my socials below. I wish you a warm and joyful new year ☕ and thank you for stopping by! ♡
 </samp></p>
 
 <h3><samp>Currently working on...</samp></h3>
