@@ -13,9 +13,8 @@ Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently ob
   <br>
   <ul>
     <li>Learning pygame-ce (check out my <a href="https://github.com/amelialwx/Pixel_Purr-suit">pixel runner game</a>!)</li>
-    <li>Planning my graduation trip 🎓</li>
+    <li>Spring 2024 semester 🎓</li>
     <li>Japanese (Hiragana)</li>
-    <li>Self care</li>
   </ul>
   <br>
 </samp>
