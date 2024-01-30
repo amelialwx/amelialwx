@@ -2,23 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=amelialwx&color=f0aace&style=for-the-badge) 
 
+<img src="assets/img/me2.png" align="left" style="width: 150px;">
+<br>
 <p><samp>
 Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently obtaining my Master's in Data Science from Harvard University. During my free time, I love to game, sketch, and watch anime. Feel free to reach out or connect with me through any of my socials below. I wish you a warm and joyful new year ☕ and thank you for stopping by! ♡
 </samp></p>
-
-<h3><samp>Currently working on...</samp></h3>
-
-<img src="assets/img/me2.png" align="left" style="width: 150px;">
-<samp>
-  <br>
-  <ul>
-    <li>Learning pygame-ce (check out my <a href="https://github.com/amelialwx/Pixel_Purr-suit">pixel runner game</a>!)</li>
-    <li>Spring 2024 semester 🎓</li>
-    <li>Japanese (Hiragana)</li>
-    <br>
-  </ul>
-  <br>
-</samp>
+<br>
 
 <h3><samp>Listening to...</samp></h3>
 
