@@ -5,7 +5,10 @@
 <img src="assets/img/me2.png" align="left" style="width: 150px;">
 <br>
 <p><samp>
-Hello! I'm Amelia, a 22 y.o. aspiring Data Scientist from Singapore currently obtaining my Master's in Data Science from Harvard University. During my free time, I love to game, sketch, and watch anime. Feel free to reach out or connect with me through any of my socials below. I wish you a warm and joyful new year ☕ and thank you for stopping by! ♡
+currently: learning to adult...
+<br>
+<br>
+<br>
 </samp></p>
 <br>
 
